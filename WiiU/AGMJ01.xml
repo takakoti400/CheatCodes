@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-16"?><codes>
+    <entry name="Alpha Colour Modify">
+        <code>00020000 12D1F180
+3F400000 00000000
+00020000 12D1F184
+3DCCCCCD 00000000
+00020000 12D1F188
+00000000 00000000
+D2000000 CAFEBABE</code>
+        <codeInputType>Cheat Code</codeInputType>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>UnStable Code.
+you can set Colour as Float.
+1(Float) = 256(decimal)
+
+Memory(Float) * 256 = Colour Code.
+Colour Code / 256 = Memory(Float)
+
+3F800000 = 1,
+
+12D1F180 = Red
+12D1F184 = Green
+12D1F188 = Blue
+
+Working Online/Offline.
+(client only)</comment>
+        <enabled>true</enabled>
+    </entry>
+    <entry name="Bravo Colour Modify">
+        <code>00020000 12D1F190
+3C000000 00000000
+00020000 12D1F194
+3F400000 00000000
+00020000 12D1F198
+3F400000 00000000
+D2000000 CAFEBABE</code>
+        <codeInputType>Cheat Code</codeInputType>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>UnStable Code.
+you can set Colour as Float.
+1(Float) = 256(dec)
+
+Memory(Float) * 256 = Colour Code.
+Colour Code / 256 = Memory(Float)
+
+3F800000 = 1,
+
+12D1F190 = Red
+12D1F194 = Green
+12D1F198 = Blue
+
+
+Working Online/Offline.
+(client only)</comment>
+        <enabled>true</enabled>
+    </entry>
+    <entry name="Tape? Colour modify make it snowy (not working? idk)">
+        <code>00020000 12D1F1A0
+00000000 00000000
+00020000 12D1F1A4
+00000000 00000000
+00020000 12D1F1A8
+00000000 00000000
+D2000000 CAFEBABE</code>
+        <codeInputType>Cheat Code</codeInputType>
+        <authors/>
+        <raw_assembly>false</raw_assembly>
+        <assembly_ram_write>false</assembly_ram_write>
+        <comment>this Cheat Code is won't work(make you crash)
+
+but it's working as Memory Edit.
+
+12D1F1A0
+12D1F1A4
+12D1F1A8</comment>
+        <enabled>false</enabled>
+    </entry>
+</codes>
